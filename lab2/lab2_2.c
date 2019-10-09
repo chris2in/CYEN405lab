@@ -3,7 +3,8 @@
 #include "mpi.h"
 
 int main(int argc,char *argv[]){
-	printf("WHY");
+	
+	
 
 	int rank,size;
 	MPI_Init(&argc,&argv);
