@@ -1,5 +1,5 @@
 """
-Lab 4 Q1J:create new security group 
+Lab 4 Q1J:deleted security group 
 
 """
 
