@@ -1,0 +1,5 @@
+success  {'KeyPairs': [{'KeyFingerprint': 'fb:aa:e8:a9:ec:d9:1c:bc:7c:c9:42:80:36:ca:e3:95:36:c4:13:82', 'KeyName': 'lab3b'}, {'KeyFingerprint': 'b4:87:ed:30:57:06:73:72:63:d2:b9:08:1a:d5:5e:a5:35:89:a9:64', 'KeyName': 'lab3Key'}, {'KeyFingerprint': '6d:3a:7c:ff:63:75:c0:b0:aa:49:75:c0:aa:a1:3f:b4:aa:54:d6:59', 'KeyName': 'lab3KeyuBuntu'}], 'ResponseMetadata': {'RequestId': '500e137e-948e-4d49-94f6-4f314971f5a8', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'text/xml;charset=UTF-8', 'content-length': '763', 'date': 'Fri, 01 Nov 2019 05:29:44 GMT', 'server': 'AmazonEC2'}, 'RetryAttempts': 0}}
+
+
+Process exited with code: 0
+
