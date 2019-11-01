@@ -1,0 +1,6 @@
+{"Version":"2012-10-17","Statement":[{"Sid":"AddPerm","Effect":"Allow","Principal":"*","Action":"s3:getObject","Resource":"arn:aws:s3:::yli027lab42bucket/*"}]}
+
+
+Process exited with code: 0
+
+
