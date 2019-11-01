@@ -1,0 +1,12 @@
+{'StartingInstances': [{'CurrentState': {'Code': 16, 'Name': 'running'}, 'InstanceId': 'i-051a3a0226060ed45', 'PreviousState': {'Code': 16, 'Name': 'running'}}], 'ResponseMetadata': {'RequestId': 'e773b4d1-888e-4da7-ad1d-3c2768ef74f7', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'text/xml;charset=UTF-8', 'content-length': '580', 'date': 'Fri, 01 Nov 2019 05:26:48 GMT', 'server': 'AmazonEC2'}, 'RetryAttempts': 0}}
+
+
+Process exited with code: 0
+
+
+
+{'StoppingInstances': [{'CurrentState': {'Code': 64, 'Name': 'stopping'}, 'InstanceId': 'i-051a3a0226060ed45', 'PreviousState': {'Code': 16, 'Name': 'running'}}], 'ResponseMetadata': {'RequestId': 'b31236be-1f00-4196-b109-75bdb363ef4c', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'text/xml;charset=UTF-8', 'content-length': '579', 'date': 'Fri, 01 Nov 2019 05:27:05 GMT', 'server': 'AmazonEC2'}, 'RetryAttempts': 0}}
+
+
+Process exited with code: 0
+
