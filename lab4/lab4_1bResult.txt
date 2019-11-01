@@ -1,0 +1,4 @@
+{'InstanceMonitorings': [{'InstanceId': 'i-0179c9b4b66e49232', 'Monitoring': {'State': 'enabled'}}], 'ResponseMetadata': {'RequestId': '9d5c5249-cd1a-4223-984c-8faf0fccdaa9', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'text/xml;charset=UTF-8', 'content-length': '424', 'date': 'Fri, 01 Nov 2019 05:06:02 GMT', 'server': 'AmazonEC2'}, 'RetryAttempts': 0}}
+
+
+Process exited with code: 0
